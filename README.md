@@ -2,7 +2,7 @@
 
 
  🤝 Buscando oportunidades para aprimorar meus conhecimentos na área da programação. <br>
- 🔭 Estudando HTML, CSS.
+ 🔭 Estudando HTML, CSS,PHP,Java Script,Bootstrap.
 
 
 <div>
